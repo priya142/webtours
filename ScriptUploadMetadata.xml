@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>webtours1</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="webtours1.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="webtours1.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="C_address2.dat" Filter="2" />
+    <FileEntry Name="C_expDate.dat" Filter="2" />
+    <FileEntry Name="C_numPassengers.dat" Filter="2" />
+    <FileEntry Name="C_departCity.dat" Filter="2" />
+    <FileEntry Name="C_creditCard.dat" Filter="2" />
+    <FileEntry Name="C_password.dat" Filter="2" />
+    <FileEntry Name="C_seatType.dat" Filter="2" />
+    <FileEntry Name="C_firstName.dat" Filter="2" />
+    <FileEntry Name="C_seatPref.dat" Filter="2" />
+    <FileEntry Name="C_userSession.dat" Filter="2" />
+    <FileEntry Name="C_arriveCity.dat" Filter="2" />
+    <FileEntry Name="C_lastName.dat" Filter="2" />
+    <FileEntry Name="C_address.dat" Filter="2" />
+    <FileEntry Name="C_pass1.dat" Filter="2" />
+    <FileEntry Name="C_username.dat" Filter="2" />
+    <FileEntry Name="combined_webtours1.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="147485595440.idx" Filter="1" />
+    <FileEntry Name="159961952440.idx" Filter="1" />
+    <FileEntry Name="160287025440.idx" Filter="1" />
+    <FileEntry Name="180050491440.idx" Filter="1" />
+    <FileEntry Name="200656435440.idx" Filter="1" />
+    <FileEntry Name="200777765440.idx" Filter="1" />
+    <FileEntry Name="207467828440.idx" Filter="1" />
+    <FileEntry Name="208586708440.idx" Filter="1" />
+    <FileEntry Name="216325781440.idx" Filter="1" />
+    <FileEntry Name="235233388440.idx" Filter="1" />
+    <FileEntry Name="249218022440.idx" Filter="1" />
+    <FileEntry Name="43434666440.idx" Filter="1" />
+    <FileEntry Name="73249467440.idx" Filter="1" />
+    <FileEntry Name="86504942440.idx" Filter="1" />
+    <FileEntry Name="94872219440.idx" Filter="1" />
+    <FileEntry Name="97425252440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="C_departDate.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv2r9.155.log" Filter="1" />
+    <FileEntry Name="mdrv6cF.551.log" Filter="1" />
+    <FileEntry Name="mdrvc9t.669.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="webtours1.c.pickle" Filter="1" />
+    <FileEntry Name="webtours1.ci" Filter="1" />
+    <FileEntry Name="webtours1.prm.bak" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

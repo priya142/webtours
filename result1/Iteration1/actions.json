@@ -1,0 +1,61 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t9.inf",
+                "time": 1635033576876
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t12.inf",
+                "time": 1635033577370
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t14.inf",
+                "time": 1635033577564
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: reservations.pl_4",
+                "infFile": "t15.inf",
+                "time": 1635033577751
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_flights search",
+                "rawStartTime": 1635033576623,
+                "rawEndTime": 1635033577176,
+                "thinkTime": 0.0,
+                "wastedTime": 0.033165931701660159
+            },
+            {
+                "transactionName": "1_finding flights",
+                "rawStartTime": 1635033577382,
+                "rawEndTime": 1635033577569,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013796329498291016
+            },
+            {
+                "transactionName": "1_payment details",
+                "rawStartTime": 1635033577586,
+                "rawEndTime": 1635033577757,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0078887939453125
+            },
+            {
+                "transactionName": "1_invoice",
+                "rawStartTime": 1635033577773,
+                "rawEndTime": 1635033577822,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004565238952636719
+            }
+        ]
+    }
+]

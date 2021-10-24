@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: welcome.pl_3",
+                "infFile": "t16.inf",
+                "time": 1635033577961
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_signoff",
+                "rawStartTime": 1635033577877,
+                "rawEndTime": 1635033577984,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007802486419677734
+            }
+        ]
+    }
+]

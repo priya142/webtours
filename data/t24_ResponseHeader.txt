@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 16 Oct 2021 06:21:30 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 15 Oct 2021 06:21:30 GMT
+Set-Cookie: MTUserInfo=firstName&priya&username&priyakota&address2&2340&hash&97&address1&karloo&lastName&kota%0A; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
